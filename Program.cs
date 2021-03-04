@@ -6,7 +6,7 @@ namespace balasm01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello groovy jenkins build");
+            Console.WriteLine("Hello groovy jenkins build!");
         }
     }
 }
